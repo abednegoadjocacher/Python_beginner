@@ -1,3 +1,65 @@
+#Bitwise operator
+a = 10
+b = 4
+print(a << b)
+print(45 | 3)
+print(5^2)
+
+
+
+
+
+
+
+
+
+
+
+
+#logical Operators
+a=2
+b=5
+c=7
+print(a<b and c<b)
+print(a<b or c<b)
+print(a<b, not c<b)
+f= False
+print(not(f))
+
+
+
+
+
+
+
+#Operators in python
+a =10
+b= 67
+c =  a+b
+print(c)
+c-= 3
+print (c)
+print(a!=b)
+
+
+
+
+
+
+length= len("Abednego")
+print("Your name has ",str(length),"characters")
+new_length=str(length)#Type casting int to string
+print(type(new_length))
+
+
+
+
+
+
+
+
+
+
 num=27727634
 print(num)
 print(type(num))#to check the type of data
