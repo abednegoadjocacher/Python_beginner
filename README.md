@@ -18,3 +18,5 @@ It has two operators: "in" and "not in"
 
 Built in functions of python like round() function.
 Also f-string manipulation.
+Control statements like if...else, nested if...else.
+Control statements are used when some action could be taken base on certain conditions.
