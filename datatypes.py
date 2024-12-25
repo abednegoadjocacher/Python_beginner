@@ -1,3 +1,28 @@
+#Membership operators: used to check or find the existence of variable.
+Name ="Abednego"
+print("A" in Name)
+print("v" not in Name)
+
+
+
+
+
+
+
+
+#Identity operator
+a =5
+b=5
+print(id (a))
+print(id(b))
+print(a is b)#identity operator
+print(a is not b)
+
+
+
+
+
+
 #Bitwise operator
 a = 10
 b = 4
