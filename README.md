@@ -20,3 +20,11 @@ Built in functions of python like round() function.
 Also f-string manipulation.
 Control statements like if...else, nested if...else.
 Control statements are used when some action could be taken base on certain conditions.
+
+LIST is used to store a collection of data types either the same or different.
+There are two types of list: Mutable and Immutable list.
+
+Tuples are used to store multiple items in a single variables. In tuples we used "()" to store data unlike list that use"[]".
+Tuples are immutable.
+
+Sets do not allow duplicate nor indexing.
