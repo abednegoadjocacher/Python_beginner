@@ -28,3 +28,5 @@ Tuples are used to store multiple items in a single variables. In tuples we used
 Tuples are immutable.
 
 Sets do not allow duplicate nor indexing.
+
+I Wrote a programme to generate password to a user based on the number of characters specify, symbols and numbers.

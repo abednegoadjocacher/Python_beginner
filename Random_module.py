@@ -1,9 +1,9 @@
 import random
 a = random.randint(1,9)
-#print(a)
+print("A = ",a)
 c = random.random()
-print(c)
+print("C = ",c)
 b=[3,2,3,45,6,7,0]
-print(b)
+print("B = ",b)
 random.shuffle(b)
 print("Shuffled",b)
