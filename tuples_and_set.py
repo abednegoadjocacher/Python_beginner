@@ -1,6 +1,7 @@
 #Operations on sets
 set1={1,2,3,4,6,8}
 set2={45,4,6,7,8,89}
+set3={3,5,67,78,5}
 print(set1.union(set2)) 
 print("The intersect:",set1.intersection(set2))
 print("The difference:",set1.difference(set2))
@@ -9,6 +10,9 @@ print("Symmetric:",set1.symmetric_difference(set2))
 print("Disjoint:",set1.isdisjoint(set2))
 print("subset:",set1.issubset(set2))
 print("superset:",set1.issuperset(set2))
+#set3.clear()
+del set3
+print("Set3 cleared",set3)
 
 
 
