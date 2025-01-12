@@ -30,3 +30,10 @@ Tuples are immutable.
 Sets do not allow duplicate nor indexing.
 
 I Wrote a programme to generate password to a user based on the number of characters specify, symbols and numbers.
+
+Another loop learnt about is while loop.
+Why do we need while  loop in our programe?
+While is used when we do not know the number of times our loop is to run.
+Also we can use while loop with else block.
+The else block runs when the loop if false.
+Sentinel values are used to terminate infinite loop
