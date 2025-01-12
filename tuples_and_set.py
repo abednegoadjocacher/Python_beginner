@@ -10,9 +10,9 @@ print("Symmetric:",set1.symmetric_difference(set2))
 print("Disjoint:",set1.isdisjoint(set2))
 print("subset:",set1.issubset(set2))
 print("superset:",set1.issuperset(set2))
-#set3.clear()
-del set3
-print("Set3 cleared",set3)
+#set3.clear() # This clear the members of the set only.
+#del set3  # this function deletes the entire set.
+#print("Set3 cleared",set3)
 
 
 
