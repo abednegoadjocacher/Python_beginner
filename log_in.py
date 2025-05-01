@@ -2,6 +2,7 @@
 A simple log in page for user
 The must enter name and password validation
 '''
+print("Create account")
 username = input("Enter user name: ")
 password = input("Enter user password: ")
 print("Account created successfully!\nLog in Now")
