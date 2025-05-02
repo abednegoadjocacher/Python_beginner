@@ -28,4 +28,9 @@ print(student.keys()) #print only the keys
 print(student.values()) # this print the values
 print(student.items()) #this print both keys and values
 
-
+#String manipulation
+print("\n")
+text = "   hello abednego!   "
+print(text.count("e")) #This count the occurrence of "e"
+print(text.strip()) #removes excess whitespace at both ends when necessary
+print(text.capitalize())
